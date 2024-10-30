@@ -698,6 +698,13 @@
 #define RIG_BACKEND_COMMRADIO "commradio"
 #define RIG_MODEL_CTX10 RIG_MAKE_MODEL(RIG_COMMRADIO, 1)
 
+/*
+ * Great Scott Gadgets
+ */
+#define RIG_GREATSCOTTGADGETS 40
+#define RIG_BACKEND_GREATSCOTTGADGETS "greatscottgadgets"
+#define RIG_MODEL_HACKRFONE RIG_MAKE_MODEL(RIG_GREATSCOTTGADGETS, 1)
+
 //! @endcond
 
 /*! \typedef typedef int rig_model_t
